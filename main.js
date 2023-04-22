@@ -1,0 +1,1 @@
+document.body.prepend(function(e){const t=document.createElement("h1");return t.textContent="This is webpack!!!",t}());
